@@ -1,0 +1,27 @@
+{
+  "name": "pretty-table",
+  "version": "1.0.0",
+  "description": "A formatter for arrays of objects and arrays!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"ur dumb, there's no test mate\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AqilCont/pretty-table.git"
+  },
+  "keywords": [
+    "tables",
+    "prettifier",
+    "formatter",
+    "table",
+    "data",
+    "organization"
+  ],
+  "author": "@AqilCont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AqilCont/pretty-table/issues"
+  },
+  "homepage": "https://github.com/AqilCont/pretty-table#readme"
+}
